@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+title: 공대생 프로미의 블로그입니다.
+decription: 
+url: 'https://Handong-Promi.github.io.'
+baseurl: '/'
+
+author:
+  name: 'Handong-Promi'
